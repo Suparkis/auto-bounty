@@ -190,11 +190,11 @@ getgenv().Setting = {
 
                 ["Z"] = {["Enable"] = false, ["HoldTime"] = 0.1, ["Number"] = 0},
 
-                ["X"] = {["Enable"] = true, ["HoldTime"] = 0.2, ["Number"] = 0},
+                ["X"] = {["Enable"] = false, ["HoldTime"] = 0.2, ["Number"] = 0},
 
-                ["C"] = {["Enable"] = true, ["HoldTime"] = 0.2, ["Number"] = 0},
+                ["C"] = {["Enable"] = false, ["HoldTime"] = 0.2, ["Number"] = 0},
 
-                ["V"] = {["Enable"] = true, ["HoldTime"] = 0.2, ["Number"] = 0},
+                ["V"] = {["Enable"] = false, ["HoldTime"] = 0.2, ["Number"] = 0},
 
                 ["F"] = {["Enable"] = false, ["HoldTime"] = 0.1, ["Number"] = 0}
 
