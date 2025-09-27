@@ -64,7 +64,7 @@ getgenv().Setting = {
 
         ["LowHealth"] = 4500,
 
-        ["MaxHealth"] = 5000,
+        ["MaxHealth"] = 6000,
 
         ["Teleport Y"] = 2000
 
