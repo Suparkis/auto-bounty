@@ -172,7 +172,7 @@ getgenv().Setting = {
 
             ["Skills"] = {
 
-                ["Z"] = {["Enable"] = true, ["HoldTime"] = 0.2, ["Number"] = 0},
+                ["Z"] = {["Enable"] = true, ["HoldTime"] = 0.3, ["Number"] = 0},
 
                 ["X"] = {["Enable"] = true, ["HoldTime"] = 0.1, ["Number"] = 0},
 
@@ -184,17 +184,17 @@ getgenv().Setting = {
 
         ["Blox Fruit"] = {
 
-            ["Enable"] = false,
+            ["Enable"] = true,
 
             ["Skills"] = {
 
                 ["Z"] = {["Enable"] = false, ["HoldTime"] = 0.1, ["Number"] = 0},
 
-                ["X"] = {["Enable"] = false, ["HoldTime"] = 0.2, ["Number"] = 0},
+                ["X"] = {["Enable"] = true, ["HoldTime"] = 0.2, ["Number"] = 0},
 
                 ["C"] = {["Enable"] = false, ["HoldTime"] = 0.2, ["Number"] = 0},
 
-                ["V"] = {["Enable"] = false, ["HoldTime"] = 0.2, ["Number"] = 0},
+                ["V"] = {["Enable"] = true, ["HoldTime"] = 0.2, ["Number"] = 0},
 
                 ["F"] = {["Enable"] = false, ["HoldTime"] = 0.1, ["Number"] = 0}
 
@@ -208,9 +208,9 @@ getgenv().Setting = {
 
             ["Skills"] = {
 
-                ["Z"] = {["Enable"] = true, ["HoldTime"] = 0.1, ["Number"] = 0},
+                ["Z"] = {["Enable"] = true, ["HoldTime"] = 0.3, ["Number"] = 0},
 
-                ["X"] = {["Enable"] = true, ["HoldTime"] = 0.1, ["Number"] = 0}
+                ["X"] = {["Enable"] = true, ["HoldTime"] = 0.3, ["Number"] = 0}
 
             }
 
@@ -222,9 +222,9 @@ getgenv().Setting = {
 
             ["Skills"] = {
 
-                ["Z"] = {["Enable"] = true, ["HoldTime"] = 0.2, ["Number"] = 0},
+                ["Z"] = {["Enable"] = true, ["HoldTime"] = 0.3, ["Number"] = 0},
 
-                ["X"] = {["Enable"] = true, ["HoldTime"] = 0.2, ["Number"] = 0}
+                ["X"] = {["Enable"] = true, ["HoldTime"] = 0.3, ["Number"] = 0}
 
             }
 
