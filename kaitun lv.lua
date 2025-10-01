@@ -54,7 +54,7 @@ getgenv().Key = "916466ce4be15d5318a75f4d"
             ["Hop Find Raids Castle [CDK]"] = false,
             ["Hop Find Cake Queen [CDK]"] = false,
             ["Hop Find Soul Reaper [CDK]"] = false,
-            ["Hop Find Darkbeard [SG]"] = true,false,
+            ["Hop Find Darkbeard [SG]"] = false,
             ["Hop Find Mirage [ Pull Lever ]"] = false,
         },
         ["Farm Mastery"] = {
