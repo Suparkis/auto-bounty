@@ -29,7 +29,7 @@ getgenv().Key = "916466ce4be15d5318a75f4d"
             ["Mirror Fractal"] = true,
             ["Cursed Dual Katana"] = true,
             ["Upgrade Race V2-V3"] = true,
-            ["Auto Pull Lever"] = true,
+            ["Auto Pull Lever"] = false,
             ["Shark Anchor"] = true, --- if have cdk,sg,godhuman
         },
         ["Get Rare Items"] = {
@@ -55,7 +55,7 @@ getgenv().Key = "916466ce4be15d5318a75f4d"
             ["Hop Find Cake Queen [CDK]"] = true,
             ["Hop Find Soul Reaper [CDK]"] = true,
             ["Hop Find Darkbeard [SG]"] = true,
-            ["Hop Find Mirage [ Pull Lever ]"] = true,
+            ["Hop Find Mirage [ Pull Lever ]"] = false,
         },
         ["Farm Mastery"] = {
             ["Melee"] = true,
@@ -68,8 +68,8 @@ getgenv().Key = "916466ce4be15d5318a75f4d"
             ["Observation"] = true,
         },
         ["Sniper Fruit Shop"] = {
-            ["Enabled"] = false, -- Auto Buy Fruit in Shop Mirage and Normal
-            ["Fruit"] = {"Kitsune-Kitsune"},
+            ["Enabled"] = true, -- Auto Buy Fruit in Shop Mirage and Normal
+            ["Fruit"] = {"Kitsune-Kitsune","Yeti-Yeti"},
         },
         ["Lock Fruit"] = {"Kitsune-Kitsune"},
         ["Webhook"] = {
