@@ -36,7 +36,7 @@ getgenv().Key = "916466ce4be15d5318a75f4d"
             ["Rengoku"] = false,
             ["Dragon Trident"] = false,
             ["Pole (1st Form)"] = false,
-            ["Gravity Blade"]  = true,
+            ["Gravity Blade"]  = false,
         },
         ["Farm Fragments"] = {
             ["Enabled"]  = false,
